@@ -6,8 +6,8 @@ This project analyzes the correlation between weather conditions and crime rates
 
 ## Datasets
 
-- **Chicago Weather Dataset:** Contains daily weather conditions in Chicago.
-- **Chicago Crime Dataset:** Includes reported incidents of crimes within the city.
+- **Chicago Weather Dataset:** Contains daily weather conditions in Chicago. [Download here](https://drive.google.com/file/d/1-0i3kyigaDlroDwO3k_1gtHGOObl8AeC/view?usp=sharing).
+- **Chicago Crime Dataset:** Includes reported incidents of crimes within the city. [Download here](https://drive.google.com/file/d/11j5kOkZS_vRX2JltgRCJy029ZVCqNRJD/view?usp=sharing).
 
 ## Dependencies
 
