@@ -1,10 +1,3 @@
----
-title: "Chicago Crime and Weather Analysis"
-author: "Your Name"
-date: "`r Sys.Date()`"
-output: html_document
----
-
 # Chicago Crime and Weather Analysis
 
 ## Overview
