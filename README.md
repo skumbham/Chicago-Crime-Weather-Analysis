@@ -40,3 +40,9 @@ PySpark enables scalable data processing and analysis. The workflow includes:
 * **Scalability:** PySpark efficiently handles large datasets.
 * **Visualization:** Matplotlib and Seaborn create insightful data visualizations.
 * **Modeling:** Advanced machine learning techniques uncover hidden patterns.
+
+## Results
+The analysis aims to provide a comprehensive understanding of how weather conditions influence crime rates in Chicago. The findings will be presented through various visualizations and predictive models, offering valuable insights for policymakers and law enforcement agencies.
+
+## Conclusion
+By combining weather data with crime statistics, this project seeks to uncover meaningful correlations and contribute to the field of criminology. The use of PySpark enables efficient processing and analysis of large datasets, ensuring robust and scalable solutions.
