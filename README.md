@@ -16,7 +16,7 @@ pip install pyspark
 pip install pandas
 pip install matplotlib
 pip install seaborn
-pip install numpy
+pip install numpy```
 
 **Data Processing and Analysis**
 
