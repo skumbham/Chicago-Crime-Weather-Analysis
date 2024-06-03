@@ -13,7 +13,7 @@ To run this project, the following libraries need to be installed in a PySpark e
 
 pip install pyspark pandas matplotlib seaborn numpy
 
-**Data Processing and Analysis**
+## **Data Processing and Analysis**
 
 PySpark enables scalable data processing and analysis. The workflow includes:
 
@@ -24,7 +24,7 @@ PySpark enables scalable data processing and analysis. The workflow includes:
 * **Exploratory Data Analysis (EDA):** Visualizing data to identify trends, patterns, and anomalies.
 * **Machine Learning:** Implementing regression and classification models to predict crime rates based on weather conditions.
 
-**Machine Learning Models**
+## **Machine Learning Models**
 
 * **Linear Regression:** Predicts crime counts based on continuous weather features.
     * Metrics: R² Score: 0.67, Mean Absolute Error: 5.3
@@ -35,7 +35,7 @@ PySpark enables scalable data processing and analysis. The workflow includes:
 * **Gradient Boosting Regressor:** Sequentially builds models to address errors from previous models.
     * Metrics: R² Score: 0.78, Mean Absolute Error: 4.5
 
-**Key Features**
+## **Key Features**
 
 * **Scalability:** PySpark efficiently handles large datasets.
 * **Visualization:** Matplotlib and Seaborn create insightful data visualizations.
