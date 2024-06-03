@@ -11,12 +11,11 @@ This project analyzes the correlation between weather conditions and crime rates
 
 To run this project, the following libraries need to be installed in a PySpark environment:
 
-```bash
 pip install pyspark
 pip install pandas
 pip install matplotlib
 pip install seaborn
-pip install numpy```
+pip install numpy
 
 **Data Processing and Analysis**
 
