@@ -19,4 +19,7 @@ To run this project, the following libraries need to be installed in a PySpark e
 
 ```bash
 pip install pyspark
+pip install pandas
 pip install matplotlib
+pip install seaborn
+pip install numpy
