@@ -54,10 +54,21 @@ The project delivers a comprehensive analysis of how weather conditions impact c
 
 This project illustrates the integration of weather data and crime statistics to uncover significant trends, demonstrating a practical application of data science principles. By employing PySpark, the analysis achieves scalability and robustness, aligning with the program’s learning objectives. This project allowed me to achieve key learning outcomes:
 
-- **Outcome 1:** Collecting, storing, and accessing data effectively with scalable processing techniques.
-- **Outcome 2:** Applying the full data science lifecycle to derive actionable insights.
-- **Outcome 3:** Using visualization and predictive models to inform public safety decisions.
-- **Outcome 4:** Utilizing Python and PySpark to efficiently process and analyze data.
-- **Outcome 5:** Communicating insights effectively through visualizations.
-- **Outcome 6:** Addressing ethical considerations in data usage, focusing on transparency and data quality.
+## 1. Collect, store, and access data by identifying and leveraging applicable technologies
+This project involved collecting and integrating multiple datasets, including crime and weather data, and organizing them for analysis. I utilized data preprocessing techniques to ensure the data was clean and accessible.
+
+## 2. Create actionable insight across a range of contexts (e.g., societal, business, political) using data and the full data science life cycle
+By following the full data science life cycle—from data collection to model deployment—we generated insights that help predict crime rates and identify hotspots, offering valuable support for public safety strategies.
+
+## 3. Apply visualization and predictive models to help generate actionable insight
+Visualizations, such as temperature-crime correlation plots, and predictive models like the Random Forest Regressor and Classifier enabled us to uncover trends and make data-driven predictions that inform law enforcement decisions.
+
+## 4. Use programming languages such as R and Python to support the generation of actionable insight
+I used Python and its libraries, including Pandas, Scikit-Learn, and Matplotlib, to analyze data, build predictive models, and create visualizations, supporting the project’s analytical needs.
+
+## 5. Communicate insights gained via visualization and analytics to a broad range of audiences
+I contributed to creating visualizations and reports to effectively communicate our findings on weather-crime correlations and crime hotspots, making the insights accessible to both technical and non-technical stakeholders.
+
+## 6. Apply ethics in the development, use, and evaluation of data and predictive models
+I ensured ethical handling of sensitive crime data by maintaining data privacy and transparency, and by using model interpretability techniques to explain our predictive results responsibly.
 
